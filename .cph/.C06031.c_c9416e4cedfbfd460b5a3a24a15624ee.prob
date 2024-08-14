@@ -1,0 +1,1 @@
+{"name":"Local: C06031","url":"e:\\Code_PTIT\\Code_C\\C06031.c","tests":[{"id":1719578246931,"input":"aiemckgobjfndlhp","output":""},{"id":1719578382072,"input":"abcdefghijklmnopqrstuvwxyz","output":""},{"id":1719578387972,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code_PTIT\\Code_C\\C06031.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: C07021","url":"e:\\Code_PTIT\\Code_C\\C07021.cpp","tests":[{"id":1719996505169,"input":"1\n2\nnguyen van hai\n8.5 5.5 7.5\ntran van tuan\n8.5 .50 9.0\n2\n2\ntran van nam\n5.5 5.0 6.0\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code_PTIT\\Code_C\\C07021.cpp","group":"local","local":true}

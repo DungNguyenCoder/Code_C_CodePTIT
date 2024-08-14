@@ -1,0 +1,1 @@
+{"name":"Local: thu","url":"e:\\Code_PTIT\\Code_C\\thu.cpp","tests":[{"id":1718550496633,"input":"AAA\n4\nAAG\nAGG\nGGG\nTAA","output":"10 9 5 6 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code_PTIT\\Code_C\\thu.cpp","group":"local","local":true}

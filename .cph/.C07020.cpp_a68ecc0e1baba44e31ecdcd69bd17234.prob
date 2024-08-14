@@ -1,0 +1,1 @@
+{"name":"Local: C07020","url":"e:\\Code_PTIT\\Code_C\\C07020.cpp","tests":[{"id":1718186652343,"input":"5\nPidgey\n12 36\nIvysaur\n10 63\nCharmander\n35 96\nPikachu\n12 32\nSquirtle\n15 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code_PTIT\\Code_C\\C07020.cpp","group":"local","local":true}
